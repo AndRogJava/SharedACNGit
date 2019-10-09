@@ -5,6 +5,7 @@ public class Aggiunta {
 	private String cilindrata;
 	private String nome;
 	private int cognome;
+	private char sesso;
 	
 	public Aggiunta(String modello, String cilindrata) {
 		this.modello = modello;
