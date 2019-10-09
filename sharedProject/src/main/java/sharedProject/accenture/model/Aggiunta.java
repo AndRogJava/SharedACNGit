@@ -4,7 +4,6 @@ public class Aggiunta {
 String prova;
 Sysocasefdsvrsgrsgvòlmfvcasdsa
 System.out.println("dscjdfskjkjs");
-=======
+Sysocasefdsvrsgrsgvòlmfvcasdsa
 
->>>>>>> branch 'master' of https://github.com/AndRogJava/SharedACNGit.git
 }
