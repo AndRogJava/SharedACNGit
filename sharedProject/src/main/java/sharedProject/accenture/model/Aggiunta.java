@@ -2,7 +2,7 @@ package sharedProject.accenture.model;
 
 public class Aggiunta {
 	private String modello;
-	private String cilindrata;
+	private String cilindrata;hrfh
 	
 	public Aggiunta() {
 		this.modello = null;
